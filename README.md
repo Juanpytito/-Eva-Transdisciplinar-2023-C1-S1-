@@ -42,11 +42,27 @@ Finalmente, asegúrate de incluir las unidades correctas en tu respuesta, ya sea
 
 # programacion:
 ## herramientas utilizadas:
+Visual studio code (Python).
+
+#### librerias:
 Matplotlib es una librería de Python especializada en la creación de gráficos en dos dimensiones. Permite crear y personalizar los tipos de gráficos más comunes, entre ellos: Diagramas de barras. Histograma.
 
 Tkinter es una biblioteca estándar de Python que proporciona una interfaz gráfica de usuario (GUI) para crear aplicaciones. Permite crear ventanas, botones, cuadros de texto y otros elementos interactivos para construir interfaces gráficas.
+
 ## Guía de instalación:
 para poder utilizar matplolib nesesitas utilizar el CMD para instalar la libreria de la siguinte forma. 
+Si estás utilizando Python 3 y tienes tanto Python 2 como Python 3 instalados en tu sistema usamos:
+#### pip3 install matplotlib
+para poder utilizar tkinter nesesitas utilizar el CMD de la siguente forma :
+#### pip install tk 
+
+# Enlace del vídeo :
+
+
+# conclusion: 
+
+
+
 
 
 

@@ -57,7 +57,7 @@ para poder utilizar tkinter nesesitas utilizar el CMD de la siguente forma :
 #### pip install tk 
 
 # Enlace del vídeo :
-
+https://cdn.discordapp.com/attachments/752659869479469200/1124132969804734584/Trabajo_MRU.py_-_Visual_Studio_Code_2023-06-29_20-17-22.zip
 
 # conclusion: 
 

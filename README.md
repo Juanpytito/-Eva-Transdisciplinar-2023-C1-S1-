@@ -5,6 +5,7 @@ Nuestro tema a tratar es el Movimiento Rectilineo Uniforme o MRU donde es el con
 
 # Evento fisico a simular:
 En el siguente proyecto consiste en realizar  una simulación del Movimiento Rectilíneo Uniforme (MRU)
+Link del envento fisico: https://drive.google.com/file/d/10SMMZEcK5ZH3ERsnLZeSz8DznqRabUF3/view?usp=sharing
 ## origen:
 El origen del MRU se basa en las observaciones y experimentos llevados a cabo por científicos y matemáticos a lo largo de la historia. A medida que se estudiaba el movimiento de los objetos en el espacio, se descubrió que existían situaciones en las que un objeto se movía en línea recta con una velocidad constante y  sin aceleración.
 Este tipo de movimiento fue denominado Movimiento Rectilíneo Uniforme (MRU) debido a sus características principales: rectilíneo, porque el objeto se mueve en línea recta, y uniforme, porque la velocidad del objeto se mantiene constante a lo largo del tiempo sin acelerar
